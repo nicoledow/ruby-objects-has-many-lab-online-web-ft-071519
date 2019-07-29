@@ -11,4 +11,8 @@ class Author
     post.author = self
   end
   
+  def posts
+    
+  end
+  
 end
